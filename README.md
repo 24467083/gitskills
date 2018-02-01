@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch and simple
+Branch management
